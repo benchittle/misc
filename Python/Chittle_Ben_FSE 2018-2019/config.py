@@ -1,0 +1,1 @@
+settingsDict={'numOfPlayers': '2', 'numOfDecks': '1', 'resolution': '1920x1080'}
