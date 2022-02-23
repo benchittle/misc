@@ -1,7 +1,7 @@
+#include "ArrayList.h"
 #include <stdio.h>
 #include <stdlib.h>
 
-#include "ArrayList.h"
 
 
 // Print given message with file name and line before exiting the program

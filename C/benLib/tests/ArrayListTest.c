@@ -7,7 +7,7 @@ int main(void) {
     for (int i = -5; i < 10; i++) {
         ArrayList_append(list, i);
     }
-    ArrayList_print(list, "%d");
+    ArrayList_printf(list, "%d");
 
     ArrayList_destroy(list);
 }
