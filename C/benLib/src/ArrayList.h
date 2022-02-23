@@ -1,6 +1,8 @@
 #ifndef ArrayList_h
 #define ArrayList_h
 
+#include <stdlib.h>
+
 #define T int
 
 typedef struct ArrayList ArrayList;
